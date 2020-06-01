@@ -1,1 +1,3 @@
-# Clinical-and-Economic-Evaluation-of-Rivaroxaban
+# Clinical and Economic Evaluation of Rivaroxaban (Xarelto) for Stroke Prophylaxis in Patients with Atrial Fibrillation with Implications for the Veterans Affairs Budget
+
+A budget impact analysis from the perspective of the Veterans Affairs to make a formulary decision on the use of rivaroxaban, dabigatran, or warfarin for stroke prophylaxis in patients with atrial fibrillation. Clinically examined two randomized control trials, four economic studies, and real world data from the Veterans Affairs’ 2011 fiscal year regarding the cost of the medications, INR monitoring, and serious adverse events of patients with atrial fibrillation. My role included identifying relevant data as well as clinically analyzing the data.
